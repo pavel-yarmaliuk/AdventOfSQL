@@ -4,7 +4,7 @@ Some elves took time off after the holiday rush, but not everyone has returned t
 
 Sample data:
 
-** elves(elf_id, elf_name) **
+**elves(elf_id, elf_name)**
 
 | elf_id | elf_name   |
 |--------|------------|
@@ -34,7 +34,7 @@ Sample data:
 | 24     | Clove      |
 | 25     | Ribbon     |
 
-** vacations(elf_id, start_date, return_date) **
+**vacations(elf_id, start_date, return_date)**
 
 | elf_id | start_date | return_date |
 |--------|------------|-------------|
