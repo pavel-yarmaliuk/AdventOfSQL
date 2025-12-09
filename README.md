@@ -14,3 +14,5 @@ Task 6: [Problem Statement](tasks/task6.md), [Solution](solutions/task6_solution
 
 Task 7: [Problem Statement](tasks/task7.md), [Solution](solutions/task7_solution.sql)
 
+Task 8: [Problem Statement](tasks/task8.md), [Solution](solutions/task8_solution.sql)
+
