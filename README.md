@@ -18,3 +18,5 @@ Task 8: [Problem Statement](tasks/task8.md), [Solution](solutions/task8_solution
 
 Task 9: [Problem Statement](tasks/task9.md), [Solution](solutions/task9_solution.sql)
 
+Task 10: [Problem Statement](tasks/task10.md), [Solution](solutions/task10_solution.sql)
+
