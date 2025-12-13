@@ -1,0 +1,38 @@
+# Task 11
+
+At the winter market, Cindy Lou is browsing the clothing inventory and wants to find all items with "sweater" in their name. But the challenge is the color and item columns have inconsistent capitalization. Can you write a query to return only the sweater names and their cleaned-up colors.
+
+**winter_clothing(item_id: INT, item_name: VARCHAR, color: VARCHAR)**
+
+| color          | item_id | item_name          |
+|----------------|---------|--------------------|
+| RED            | 1       | Cable Knit SWEATER |
+| black          | 2       | Wool Jacket        |
+| NAVY Blue      | 3       | Cashmere sweater   |
+| forest GREEN   | 4       | Turtleneck Sweater |
+| Brown          | 5       | Down Parka         |
+| cream          | 6       | CHUNKY SWEATER     |
+| GRAY           | 7       | Fleece Pullover    |
+| Multi-Color    | 8       | Fair Isle Sweater  |
+| BLACK          | 9       | Ski Pants          |
+| Burgundy       | 10      | V-neck sweater     |
+| white          | 11      | Thermal Vest       |
+| BEIGE          | 12      | Cardigan SWEATER   |
+| TAN            | 13      | Snow Boots         |
+| charcoal       | 14      | Mock Neck Sweater  |
+| ORANGE         | 15      | Puffer Jacket      |
+| Navy and White | 16      | Striped sweater    |
+| purple         | 17      | Winter Scarf       |
+| DARK gray      | 18      | Hooded SWEATER     |
+| Pink           | 19      | Mittens            |
+| OLIVE green    | 20      | Crew Neck Sweater  |
+| yellow         | 21      | Beanie Hat         |
+| LIGHT Blue     | 22      | Oversized sweater  |
+| Maroon         | 23      | Quilted Vest       |
+| emerald        | 24      | Knit SWEATER Dress |
+| STRIPED        | 25      | Wool Socks         |
+| Mustard YELLOW | 26      | Pullover Sweater   |
+| RED            | 27      | Snow Gloves        |
+| blue AND gray  | 28      | Argyle sweater     |
+| HOT pink       | 29      | Ear Muffs          |
+| Ivory          | 30      | Ribbed Sweater     |
