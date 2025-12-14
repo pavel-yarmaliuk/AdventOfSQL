@@ -1,0 +1,41 @@
+# Task 14
+
+The Productivity Club is tracking members' challenge start dates and wants to calculate each member's focus_end_date, exactly 14 days after their start date. Can you write a query to return the existing table with the focus_end_date column?
+
+Sample data:
+
+**focus_challenges(member_id: INTEGER, member_name: VARCHAR, start_date: DATE)**
+
+| member_id | start_date | member_name       |
+| --------- | ---------- | ----------------- |
+| 1         | 2024-01-05 | Sarah Chen        |
+| 2         | 2024-01-08 | Marcus Johnson    |
+| 3         | 2024-01-10 | Emily Rodriguez   |
+| 4         | 2024-01-12 | David Kim         |
+| 5         | 2024-01-15 | Jessica Williams  |
+| 6         | 2024-01-18 | Ahmed Hassan      |
+| 7         | 2024-01-20 | Olivia Brown      |
+| 8         | 2024-01-22 | James Taylor      |
+| 9         | 2024-01-25 | Priya Patel       |
+| 10        | 2024-01-28 | Michael Anderson  |
+| 11        | 2024-02-01 | Sophia Martinez   |
+| 12        | 2024-02-03 | Daniel Lee        |
+| 13        | 2024-02-05 | Isabella Garcia   |
+| 14        | 2024-02-08 | Ryan O'Connor     |
+| 15        | 2024-02-10 | Maya Thompson     |
+| 16        | 2024-02-12 | Kevin Zhang       |
+| 17        | 2024-02-15 | Ava Wilson        |
+| 18        | 2024-02-18 | Christopher Moore |
+| 19        | 2024-02-20 | Zoe Robinson      |
+| 20        | 2024-02-22 | Nathan Clark      |
+| 21        | 2024-02-25 | Emma Lewis        |
+| 22        | 2024-02-28 | Brandon Walker    |
+| 23        | 2024-03-01 | Lily Hall         |
+| 24        | 2024-03-03 | Joshua Young      |
+| 25        | 2024-03-05 | Grace King        |
+| 26        | 2024-03-08 | Tyler Wright      |
+| 27        | 2024-03-10 | Chloe Scott       |
+| 28        | 2024-03-12 | Andrew Green      |
+| 29        | 2024-03-15 | Hannah Adams      |
+
+
