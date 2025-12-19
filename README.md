@@ -35,3 +35,5 @@ Task 16: [Problem Statement](tasks/task16.md), [Solution](solutions/task16_solut
 Task 17: [Problem Statement](tasks/task17.md), [Solution](solutions/task17_solution.sql)
 
 Task 18: [Problem Statement](tasks/task18.md), [Solution](solutions/task18_solution.sql)
+
+Task 19: [Problem Statement](tasks/task19.md), [Solution](solutions/task19_solution.sql)
